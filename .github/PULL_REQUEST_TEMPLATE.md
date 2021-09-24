@@ -1,4 +1,4 @@
 # 🖐 잠깐, PR 날리기 전에 확인하셨나요?
 
-- [ ] `git-practice/introductions` 폴더 안에 자기 Github ID를 파일 이름으로 한 마크다운을 추가했나요?
+- [ ] `git-practice/introductions` 폴더 안에 '본인이름_자기소개'를 이름으로 한 마크다운을 추가했나요?
 - [x] 다음과 같이 대괄호 안에 x를 넣으면 체크할 수 있답니다!
